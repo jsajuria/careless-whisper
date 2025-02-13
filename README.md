@@ -1,4 +1,5 @@
 # 🎤 Careless Whisper - AI Web-Based Transcription App  
+README file created with the help of ChatGPT
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)  
@@ -32,4 +33,12 @@ Ensure you have:
   ```
 - **Pip & Virtual Environment (Recommended)**
 
-### **1️⃣ Prerequisites**  
+### **2️⃣ Clone the repository**  
+```bash
+git clone https://github.com/yourusername/whisper-ai-gui.git
+cd whisper-ai-gui
+```
+### **3️⃣ Install Dependencies**
+```bash
+pip install -r requirements.txt
+```

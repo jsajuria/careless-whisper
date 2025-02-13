@@ -8,3 +8,4 @@ soundfile
 pyaudio
 tk
 gradio
+pyannote-audio

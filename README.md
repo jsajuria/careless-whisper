@@ -10,11 +10,9 @@ This app runs **locally** on your machine, ensuring privacy while providing **re
 
 ## **🔹 Features**  
 ✅ **Upload & Transcribe**: Supports `.mp3`, `.wav`, `.m4a` files.  
-✅ **Real-Time Progress Bar**: See transcription progress as it happens.  
-✅ **Live Streaming UI**: Dynamically updates as the text is transcribed.  
-✅ **Supports Multiple Whisper Models**: Choose between `tiny`, `base`, `small`, `medium`, and `large`.  
+✅ **Fast & Simple**: Just upload a file and get instant transcription.  
 ✅ **Privacy-Friendly**: Runs entirely **locally**—no cloud processing.  
-✅ **Download Transcription**: Save results as a `.txt` file.  
+✅ **User-Friendly Web UI**: Powered by **Gradio**
 
 ---
 
@@ -33,12 +31,42 @@ Ensure you have:
   ```
 - **Pip & Virtual Environment (Recommended)**
 
+---
+
 ### **2️⃣ Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/whisper-ai-gui.git
-cd whisper-ai-gui
+git clone https://github.com/jsajuria/careless-whisper.git
+cd careless-whisper
 ```
+
+---
+
 ### **3️⃣ Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+### **4️⃣ Run the Desktop App**
+```bash
+python whisper_gui.py
+```
+Then open your browser and go to:
+👉 http://127.0.0.1:7860
+
+---
+
+📂 **File Structure**
+
+```bash
+careless-whisper-transcription/
+│── whisper_gui.py      # Main web app
+│── assets/             # Icons, screenshots, and branding
+│── flagged/            # (Optional) Saves generated text files into a csv
+│── README.md           # Project documentation
+│── requirements.txt    # Dependencies
+```
+
+
+

@@ -1,0 +1,10 @@
+openai-whisper
+torch
+torchaudio
+ffmpeg-python
+numpy
+librosa
+soundfile
+pyaudio
+tk
+gradio

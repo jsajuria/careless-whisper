@@ -18,7 +18,6 @@ This app runs **locally** on your machine, ensuring privacy while providing **re
 ---
 
 ## **📸 Screenshots**  
-🚀 *Show a preview of the app*  
 ![Screenshot of Whisper AI Web App](./assets/Screenshot.png)  
 
 ---

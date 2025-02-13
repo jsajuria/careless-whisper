@@ -29,5 +29,7 @@ Ensure you have:
 - **FFmpeg** → Install via Homebrew:  
   ```bash
   brew install ffmpeg
+  ```
+- **Pip & Virtual Environment (Recommended)**
 
-- ** Pip & Virtual Environment (Recommended)
+### **1️⃣ Prerequisites**  

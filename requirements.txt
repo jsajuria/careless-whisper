@@ -9,3 +9,4 @@ pyaudio
 tk
 gradio
 pyannote-audio
+whisperx
